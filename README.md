@@ -20,4 +20,4 @@ Buka pertama kali butuh internet; setelah itu bisa offline.
 - **Untuk semua pemain (permanen):** jalankan `python3 tools/buat_ikon.py gambarmu.png --bg "#162033" --zoom 1.1` (butuh Pillow), atau timpa file di `icons/` dengan PNG ukuran yang sama. Lalu naikkan `VERSION` di `sw.js` (mis. `cicaww33-v2`) sebelum mengunggah ulang.
 
 ## Suara di HP
-Browser HP memblokir suara sampai layar disentuh. Game kini membuka suara otomatis pada sentuhan pertama, dan menampilkan tombol "Ketuk layar untuk menyalakan suara" bila masih terkunci. Di iPhone, suara tetap terdengar walau tombol silent aktif. Jika ada musik tidak terdengar, cek volume media dan pengaturan Audio di game.
+Browser HP memblokir suara sampai layar disentuh. Game kini membuka suara otomatis pada sentuhan pertama, dan menampilkan tombol "Ketuk layar untuk menyalakan suara" bila masih terkunci. Di iPhone, suara tetap terdengar walau tombol silent aktif. Jika ada musik tidak terdengar, cek volume media dan pengaturan Audio di game.a
